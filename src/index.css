@@ -1,0 +1,12 @@
+@import url("https://fonts.cdnfonts.com/css/joystix");
+@import url("https://fonts.cdnfonts.com/css/maus");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  body {
+    @apply font-JoysStick;
+  }
+}
