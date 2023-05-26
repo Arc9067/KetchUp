@@ -4,7 +4,7 @@ import About from "./Components/About";
 
 const App = () => {
   return (
-    <div className="min-h-screen w-full overflow-hidden bg-red-500 text-white">
+    <div className="min-h-screen w-full overflow-hidden bg-red-800 text-white">
       <Hero />
       <About />
     </div>
