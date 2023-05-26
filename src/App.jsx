@@ -3,6 +3,7 @@ import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Tokenomics from "./Components/Tokenomics";
 import Roadmap from "./Components/Roadmap";
+import Buy from "./Components/Buy";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <About />
       <Tokenomics />
       <Roadmap />
+      <Buy />
     </div>
   );
 };
