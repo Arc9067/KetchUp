@@ -2,6 +2,7 @@ import React from "react";
 import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Tokenomics from "./Components/Tokenomics";
+import Roadmap from "./Components/Roadmap";
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <Hero />
       <About />
       <Tokenomics />
+      <Roadmap />
     </div>
   );
 };
