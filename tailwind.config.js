@@ -17,6 +17,9 @@ export default {
         JoysStick: ["Joystix", "sans-serif"],
         Maus: ["Maus", "sans-serif"],
       },
+      colors: {
+        primary: "#ff0000",
+      },
     },
   },
   plugins: [],

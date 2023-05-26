@@ -7,7 +7,7 @@ import Buy from "./Components/Buy";
 
 const App = () => {
   return (
-    <div className="min-h-screen w-full overflow-hidden bg-red-800 text-white">
+    <div className="min-h-screen w-full overflow-hidden bg-red-500 text-white">
       <Hero />
       <About />
       <Tokenomics />
