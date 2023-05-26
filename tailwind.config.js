@@ -15,7 +15,7 @@ export default {
     extend: {
       fontFamily: {
         JoysStick: ["Joystix", "sans-serif"],
-        Maus: ["Maus", "sans-serif"],
+        Maus: ["04b", "sans-serif"],
       },
       colors: {
         primary: "#ff0000",
