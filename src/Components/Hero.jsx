@@ -18,9 +18,7 @@ const Hero = () => {
         "
         />
         <p className="max-w-xl z-10 leading-loose">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum ducimus
-          amet eius laboriosam voluptas magnam cumque voluptates neque corrupti
-          consequuntur.
+          The greatest addition to blockchain since ethereum
         </p>
       </div>
     </section>
