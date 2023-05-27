@@ -15,7 +15,7 @@ const Roadmap = () => {
           />
           <ul className="list-disc list-inside text-2xl flex flex-col gap-5 mt-5">
             <li className="max-w-lg text-center">
-              we will send a bottle on ketchup to mars
+              we will send a bottle of ketchup to mars
             </li>
           </ul>
           <img src={Logo} alt="" />
