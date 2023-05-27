@@ -27,6 +27,9 @@ const Hero = () => {
           <a href="https://twitter.com/ketchuperc" className="text-4xl">
             twitter
           </a>
+          <a href="mailto:Marketing@teamketchup.site" className="text-4xl">
+            contact
+          </a>
         </div>
       </div>
     </section>
