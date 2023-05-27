@@ -5,7 +5,7 @@ import text from "../assets/about.png";
 const About = () => {
   return (
     <section className="py-[50px] w-full flex justify-center overflow-hidden items-center">
-      <div className="container flex-col gap-4 flex justify-center items-center text-center overflow-hidden">
+      <div className="container flex-col gap-4 flex justify-center text-3xl items-center text-center overflow-hidden">
         <img
           src={text}
           alt=""

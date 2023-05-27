@@ -14,7 +14,7 @@ const Buy = () => {
         "
           />{" "}
           <img src={logo} alt="" className="absolute w-40 animate-pulse" />
-          <ul className="text-center  z-10 list-inside text-2xl flex flex-col gap-5 mt-5">
+          <ul className="text-center  z-10 list-inside text-4xl flex flex-col gap-5 mt-5">
             <li className="max-w-lg">Buy ETH</li>
             <li className="max-w-lg">send it to your MetaMask wallet</li>
             <li className="max-w-lg">Connect to Uniswap.</li>

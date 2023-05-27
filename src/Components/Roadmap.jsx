@@ -13,7 +13,7 @@ const Roadmap = () => {
             className="md:w-4/12
         "
           />
-          <ul className="list-disc list-inside text-2xl flex flex-col gap-5 mt-5">
+          <ul className="list-disc list-inside text-4xl flex flex-col gap-5 mt-5">
             <li className="max-w-lg text-center">
               we will send a bottle on ketchup to mars
             </li>
