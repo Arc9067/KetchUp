@@ -16,7 +16,7 @@ const Tokenomics = () => {
             <li>1% tax</li>
             <li>6969420 supply</li>
             <li>1% max tx</li>
-            <li>lp burt</li>
+            <li>100 years lock</li>
           </ul>
         </div>
       </div>
