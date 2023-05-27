@@ -15,7 +15,7 @@ const Tokenomics = () => {
           <ul className="list-decimal list-inside text-2xl flex flex-col gap-5 mt-5">
             <li>1% tax</li>
             <li>6969420 supply</li>
-            <li>1% max tx</li>
+            <li>2% max tx</li>
             <li>100 years lock</li>
           </ul>
         </div>
