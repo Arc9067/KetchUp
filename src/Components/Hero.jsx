@@ -17,7 +17,7 @@ const Hero = () => {
           className="md:w-8/12
         "
         />
-        <p className="max-w-xl z-10 leading-loose text-4xl">
+        <p className="max-w-xl z-10 leading-loose text-2xl">
           The greatest addition to blockchain since ethereum
         </p>
       </div>
