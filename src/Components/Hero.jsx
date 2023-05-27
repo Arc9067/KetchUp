@@ -20,6 +20,14 @@ const Hero = () => {
         <p className="max-w-xl z-10 leading-loose text-2xl">
           The greatest addition to blockchain since ethereum
         </p>
+        <div className="flex flex-col md:flex-row mt-10 gap-8">
+          <a href="https://t.me/KetchupPortal" className="text-4xl">
+            telegram
+          </a>
+          <a href="https://twitter.com/ketchuperc" className="text-4xl">
+            twitter
+          </a>
+        </div>
       </div>
     </section>
   );
